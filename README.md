@@ -40,42 +40,64 @@ Using Project Management Software: Utilize project management software to track 
 Agile Methodology
 Characteristics:
 
-Iterative and incremental approach.
+Iterative and incremental approach:
 Work is divided into smaller iterations or sprints, each lasting typically 2-4 weeks.
 Emphasizes collaboration, flexibility, and customer involvement.
 Focuses on delivering functional software quickly and frequently.
+
 Advantages: 
+
 Flexibility: Highly adaptive to changes in requirements and project scope.
+
 Customer Involvement: Customers are involved throughout the process, which helps ensure the product meets their needs.
+
 Faster Delivery: Can deliver working software early and frequently, providing quicker return on investment.
+
 Disadvantages:
+
 Requires Experienced Team: The lack of a detailed plan and the iterative nature require a team experienced in Agile to ensure success.
+
 Less Documentation: Emphasis on working software over comprehensive documentation can sometimes lead to knowledge gaps.
+
 Potential Scope Creep: Without strict controls, continuous changes can lead to project scope creep.
+
 Waterfall Methodology
+
 Characteristics:
+
 Sequential and linear process.
 Each phase (Requirements, Design, Implementation, Verification, Maintenance) must be completed before the next phase can begin.
 Typically, a detailed plan is made at the beginning of the project.
 Emphasis on thorough documentation.
+
 Advantages:
+
 Clear structure and defined phases
+
 Easier to manage and control
+
 Comprehensive documentation
+
 Well-suited for projects with fixed requirements
+
 Disadvantages:
+
 Inflexible to change
+
 Longer delivery cycles
+
 Limited customer involvement during development
+
 Higher risk of late discovery of defects
 
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
 Projects Where Agile Is More Beneficial
 
-1. Software Development with Evolving Requirements:
+1. Software Development with Evolving Requirements
 2. Complex projects with uncertain requirements
 3. Innovative and Experimental Projects
 4. Fast-Paced Environments
+   
    Examples:
   1. Software Development for Startups: Startups operate fast and in unknown conditions, and they experience frequent requirement transformations. Agile enables them to shift operations rapidly due to customer input and marketplace needs.
   2. Mobile App development:  The development of mobile applications requires continuous updates and new features based on clientele suggestions. This mobile development stage requires iterative procedures which Agile approaches perfectly.
