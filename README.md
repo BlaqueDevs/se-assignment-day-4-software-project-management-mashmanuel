@@ -180,21 +180,32 @@ Significance to Target Audiences (Examples):
 
 Clearly defining the problem is crucial for developing effective software solutions because it provides a strong foundation for the entire development process. Here's how:
 a)	Focused Development Efforts: The definition of a problem provides clear objectives which all developers should understand through it. The defined problem avoids unnecessary development work which does not contribute to solving the essential problem. The project maintains its path by using this guiding principle.
+
 b)	Targeted Solutions: Software developers can create solutions that target the core issue after comprehending all aspects of the problem. The outcome produces effective and efficient software which resolves genuine user requirements.
+
 c)	Measurable Results: Problem definitions need to be clear to create specific and measurable goals that are both achievable and relevant in a certain time frame (SMART goals). Monitoring progress and evaluating success together with required changes becomes possible during development through this method. The clear definition of problems serves as evidence to stakeholders about the software's worth.
+
 d)	Reduced Rework and Costs: Defining the problem from the beginning enables developers to prevent future expenses on project rework. Development costs for changes remain lower when interventions happen at early project stages. When problems are well-defined during the project schedule risks decrease and developers will create an incorrect solution which forces them to begin again.
+
 e)	Improved User Satisfaction: A software system that solves a specific problem will better satisfy user needs and create favourable user interactions. Effective solutions of user needs through software result in higher satisfaction rates which leads users to adopt the system.
+
 f)	Better Communication and Collaboration: A shared understanding of the problem facilitates better communication and collaboration among developers, stakeholders, and end-users. A common understanding between the parties involved leads to fewer issues and disputes.
+
 g)	Prioritization of Features: Defining the main issue enables developers to establish functional requirements from essential features. Developers must focus on essential software features by comprehending the fundamental problem which leads them to exclude surplus elements that would enlarge the product while delaying its creation process.
 
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
 a)	Focusing on the Problem: Start by stating the problem my software solves. I would Phrase this in terms my target audience understands, using their language and focusing on their pain points.
+
 b)	Highlighting the Benefits: Describing the positive outcomes users experience by using my software. I would focus on the "what's in it for me" (WIIFM) aspect. By using clear, concise language and quantifying the benefits whenever possible. For example, instead of saying "My software improves efficiency," I might say "My software saves you an average of 2 hours per week."
+
 c)	Using Analogies and Metaphors: I would relate my software to something familiar to my target audience. This can help them grasp the concept quickly without needing technical explanations. For example, I might describe a project management software as "a central hub for all my team's activities," or a cloud storage solution as "a secure digital filing cabinet."
+
 d)	Emphasizing the User Experience: I would describe how easy and intuitive my software is to use. I would highlight features that contribute to a positive user experience, such as a simple interface, clear navigation, and helpful tutorials. For example, I could say "My software is designed to be user-friendly, even for those with no technical expertise."
+
 e)	Telling a Story:  I would present one short story about how my software system benefited both a particular user alongside an organization. The use of examples represents an effective way to enhance the readability of my description.
 
 ## 11. What are the main features or functionalities that make your software stand out?
+
 a)	Unique Value Proposition
 b)	Target Audience
 c)	Competitive Analysis
