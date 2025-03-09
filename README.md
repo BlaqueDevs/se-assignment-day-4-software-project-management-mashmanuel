@@ -99,15 +99,19 @@ Projects Where Agile Is More Beneficial
 4. Fast-Paced Environments
    
    Examples:
-  1. Software Development for Startups: Startups operate fast and in unknown conditions, and they experience frequent requirement transformations. Agile enables them to shift operations rapidly due to customer input and marketplace needs.
-  2. Mobile App development:  The development of mobile applications requires continuous updates and new features based on clientele suggestions. This mobile development stage requires iterative procedures which Agile approaches perfectly.
-  3. Game Development: Game development requires many innovative ideas and extensive testing to fulfil its purposes. Through iteration testing Agile enables developers to enhance both gameplay features and user satisfaction during game development.
+   Software Development for Startups: Startups operate fast and in unknown conditions, and they experience frequent requirement transformations. Agile enables them to shift operations rapidly due to customer input and marketplace needs.
+   
+ Mobile App development:  The development of mobile applications requires continuous updates and new features based on clientele suggestions. This mobile development stage requires iterative procedures which Agile approaches perfectly.
+ 
+Game Development: Game development requires many innovative ideas and extensive testing to fulfil its purposes. Through iteration testing Agile enables developers to enhance both gameplay features and user satisfaction during game development.
      Projects Where Waterfall Is More Beneficial:
-     1.  Projects with Clear and Fixed Requirements:
+     a) Projects with Clear and Fixed Requirements:
         Example: Building constructors rely on Waterfall due to its defined specifications, which stay static from project initiation. The step-by-step structure of the Waterfall methodology requires developers to finish each work stage (design and construction, among others) until achieving complete satisfaction before beginning new tasks, which decreases the need for expensive modifications.
-2. Regulatory Compliance and Safety-Critical Systems:
+        
+b) Regulatory Compliance and Safety-Critical Systems:
    Example: The development of software aimed at medical devices along with aviation systems demands thorough documentation coupled with regulatory approvals that must adhere to strict standards. Comprehensive documentation in Waterfall development along with sequential phases helps teams complete all regulatory standards before moving on to the next phase.
-   3.  Projects with Limited Resources or Time:
+   
+   c) Projects with Limited Resources or Time:
 
 Example: A small project with a fixed budget and timeline, such as developing a simple website for a local business. Since the requirements are straightforward and well-understood, the Waterfall methodology can efficiently manage the project from start to finish without the need for iterative development.
 
@@ -160,10 +164,15 @@ Definition:A Work Breakdown Structure, or WBS for short, is a hierarchical break
 Why a WBS is useful
 
 Detailed Planning: The WBS provides a clear and detailed view of the entire project, breaking it down into smaller tasks. This breakdown helps in creating a comprehensive project plan with realistic timelines and milestones.
+
 Improved Estimation: By breaking the project into smaller components, the WBS facilitates more accurate estimates of time, cost, and resources required for each task.
+
 Enhanced Communication: The hierarchical structure of the WBS helps team members and stakeholders understand how their tasks fit into the larger project. This clarity improves communication and collaboration.
+
 Effective Monitoring and Control: The WBS serves as a foundation for tracking project progress. Project managers can monitor the completion of individual work packages, ensuring the project stays on track.
+
 Risk Identification: Breaking down the project helps identify potential risks associated with each task or work package, enabling proactive risk management.
+
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
 Benefits of a Detailed Project Schedule:
 
